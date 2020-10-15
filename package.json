@@ -10,6 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-firebase/app": "^8.4.5",
+    "@react-native-firebase/messaging": "^7.9.0",
+    "mobx": "^6.0.1",
+    "mobx-react": "^7.0.0",
     "react": "16.13.1",
     "react-native": "0.63.3"
   },

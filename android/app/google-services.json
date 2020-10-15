@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224534552919",
+    "firebase_url": "https://minid-app-poc.firebaseio.com",
+    "project_id": "minid-app-poc",
+    "storage_bucket": "minid-app-poc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224534552919:android:4892b333070e29ff905e12",
+        "android_client_info": {
+          "package_name": "no.digdir.minidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224534552919-e9v2skhe0j84orudjhi6ej16utkgs01j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "no.digdir.minidapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "224534552919-rjvjvvq2nd94n5fkuged2lu8cmn0qgl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsekx-VGHYJIoFgNkDSICwyawAgUAZ2Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224534552919-rjvjvvq2nd94n5fkuged2lu8cmn0qgl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

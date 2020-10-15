@@ -1,4 +1,4 @@
-package com.minidapp;
+package no.digdir.minidapp;
 
 import com.facebook.react.ReactActivity;
 
